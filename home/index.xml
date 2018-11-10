@@ -40,15 +40,6 @@
     </item>
     
     <item>
-      <title>Computer skills</title>
-      <link>https://www.paulmattern.org/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://www.paulmattern.org/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selected Publications</title>
       <link>https://www.paulmattern.org/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
@@ -81,6 +72,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://www.paulmattern.org/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer skills</title>
+      <link>https://www.paulmattern.org/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.paulmattern.org/home/skills/</guid>
       <description></description>
     </item>
     
