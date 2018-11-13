@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://www.paulmattern.org/publication/ucsc_fda/</loc>
+      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.paulmattern.org/publication/</loc>
       <lastmod>2018-11-01T00:00:00-07:00</lastmod>
     </url>
@@ -14,6 +22,14 @@
     
       <loc>https://www.paulmattern.org/publication/ucsc_fpi/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.paulmattern.org/publication/ucsc_osaka/</loc>
+      <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -61,6 +77,14 @@
     <url>
     
       <loc>https://www.paulmattern.org/publication/ucsc_nemuro4dvar/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.paulmattern.org/publication/csc_paramest/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -181,7 +205,7 @@
     <url>
     
       <loc>https://www.paulmattern.org/publication_types/2/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -234,7 +258,7 @@
     <url>
     
       <loc>https://www.paulmattern.org/publication_types/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
