@@ -92,15 +92,6 @@
     
     <item>
       <title>Simple parameter estimation for complex models — Testing evolutionary techniques on 3-dimensional biogeochemical ocean models</title>
-      <link>https://www.paulmattern.org/publication/csc_paramest/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.paulmattern.org/publication/csc_paramest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simple parameter estimation for complex models — Testing evolutionary techniques on 3-dimensional biogeochemical ocean models</title>
       <link>https://www.paulmattern.org/publication/ucsc_paramest/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -309,6 +300,15 @@ git submodule update --init --recursive
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://www.paulmattern.org/publication/dal_mesocosm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle filter-based data assimilation for a three-dimensional biological ocean model and satellite observations</title>
+      <link>https://www.paulmattern.org/publication/dal_pf/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.paulmattern.org/publication/dal_pf/</guid>
       <description></description>
     </item>
     
