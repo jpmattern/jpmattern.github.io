@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paulmattern.org on paulmattern.org</title>
@@ -6,8 +5,8 @@
     <description>Recent content in paulmattern.org on paulmattern.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Jann Paul Mattern 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <copyright>&amp;copy; Jann Paul Mattern 2019</copyright>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -64,10 +63,10 @@
       
       <guid>https://www.paulmattern.org/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+  
+Click on the **Slides** button above to view the built-in slides feature.
 
 &lt;/div&gt;
-
 
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 

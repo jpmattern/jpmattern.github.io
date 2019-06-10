@@ -1,11 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://www.paulmattern.org/publication_types/2/</loc>
+      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
     
       <loc>https://www.paulmattern.org/publication/ucsc_fda/</loc>
       <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.paulmattern.org/publication_types/</loc>
+      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.paulmattern.org/</loc>
+      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -92,6 +118,15 @@
     
     <url>
     
+      <loc>https://www.paulmattern.org/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.paulmattern.org/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
@@ -100,8 +135,44 @@
     
     <url>
     
+      <loc>https://www.paulmattern.org/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.paulmattern.org/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.paulmattern.org/project/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.paulmattern.org/tags/</loc>
+      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.paulmattern.org/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -196,61 +267,7 @@
     
     <url>
     
-      <loc>https://www.paulmattern.org/publication_types/2/</loc>
-      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.paulmattern.org/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication_types/</loc>
-      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -267,24 +284,6 @@
     <url>
     
       <loc>https://www.paulmattern.org/slides/example-slides/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/</loc>
-      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

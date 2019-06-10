@@ -6,20 +6,11 @@
     <description>Recent content in Tags on paulmattern.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Jann Paul Mattern 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <copyright>&amp;copy; Jann Paul Mattern 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://www.paulmattern.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>https://www.paulmattern.org/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://www.paulmattern.org/tags/academic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Deep Learning</title>
@@ -36,6 +27,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://www.paulmattern.org/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://www.paulmattern.org/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.paulmattern.org/tags/academic/</guid>
       <description></description>
     </item>
     
