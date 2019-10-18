@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on paulmattern.org</title>
+    <title>Tags | paulmattern.org</title>
     <link>https://www.paulmattern.org/tags/</link>
-    <description>Recent content in Tags on paulmattern.org</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Jann Paul Mattern 2019</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://www.paulmattern.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.paulmattern.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jann Paul Mattern 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.paulmattern.org/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://www.paulmattern.org/tags/</link>
+    </image>
     
     <item>
       <title>Deep Learning</title>
       <link>https://www.paulmattern.org/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://www.paulmattern.org/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -24,8 +23,7 @@
     <item>
       <title>Demo</title>
       <link>https://www.paulmattern.org/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://www.paulmattern.org/tags/demo/</guid>
       <description></description>
     </item>
@@ -33,8 +31,7 @@
     <item>
       <title>Academic</title>
       <link>https://www.paulmattern.org/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://www.paulmattern.org/tags/academic/</guid>
       <description></description>
     </item>

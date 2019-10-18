@@ -1,290 +1,319 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication_types/2/</loc>
-      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/ucsc_fda/</loc>
-      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication_types/</loc>
-      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/</loc>
-      <lastmod>2018-11-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/</loc>
-      <lastmod>2018-11-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/ucsc_fpi/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/ucsc_osaka/</loc>
-      <lastmod>2018-09-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication_types/2/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/christopher-a-edwards/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/christopher-n-hill/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/post/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication/ucsc_dual/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/jann-paul-mattern/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/ucsc_nemuro4dvar/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication_types/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/ucsc_paramest/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication/ucsc_fda/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/christopher-a.-edwards/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication/</loc>
+    <lastmod>2018-11-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_springbloom/</loc>
-      <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/andrew-m.-moore/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_emulator2/</loc>
-      <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication/ucsc_fpi/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_uncertainty/</loc>
-      <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/fumiaki-hirose/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_mesocosm/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/katja-fennel/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_pf/</loc>
-      <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/masayasu-irie/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_emulator1/</loc>
-      <lastmod>2012-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication/ucsc_osaka/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_enkf/</loc>
-      <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/teruhisa-okada/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_mc/</loc>
-      <lastmod>2010-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication/ucsc_nemuro4dvar/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_image/</loc>
-      <lastmod>2010-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/hajoon-song/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/publication/dal_masters/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/authors/jerome-fiechter/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/publication/ucsc_paramest/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://www.paulmattern.org/slides/example-slides/</loc>
-    </url>
-    
+  <url>
+    <loc>https://www.paulmattern.org/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/angela-m.-kuhn/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_springbloom/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/michael-dowd/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_emulator2/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_uncertainty/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/robin-f.-wilson/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_mesocosm/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_pf/</loc>
+    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_emulator1/</loc>
+    <lastmod>2012-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_enkf/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/jiatang-hu/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/john-wilkin/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_mc/</loc>
+    <lastmod>2010-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/alan-j.-hidy/</loc>
+    <lastmod>2010-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/joel-l.-pederson/</loc>
+    <lastmod>2010-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/john-c.-gosse/</loc>
+    <lastmod>2010-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/authors/robert-c.-finkel/</loc>
+    <lastmod>2010-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_image/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/publication/dal_masters/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.paulmattern.org/courses/</loc>
+  </url>
   
 </urlset>

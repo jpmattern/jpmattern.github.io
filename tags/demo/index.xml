@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on paulmattern.org</title>
+    <title>Demo | paulmattern.org</title>
     <link>https://www.paulmattern.org/tags/demo/</link>
-    <description>Recent content in Demo on paulmattern.org</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Jann Paul Mattern 2019</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://www.paulmattern.org/tags/demo/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.paulmattern.org/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jann Paul Mattern 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.paulmattern.org/img/icon-192.png</url>
+      <title>Demo</title>
+      <link>https://www.paulmattern.org/tags/demo/</link>
+    </image>
     
     <item>
       <title>External Project</title>
-      <link>https://www.paulmattern.org/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://www.paulmattern.org/project/example-external-project/</guid>
-      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+      <link>https://www.paulmattern.org/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/project/external-project/</guid>
+      <description></description>
     </item>
     
   </channel>
