@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katja Fennel | paulmattern.org</title>
+    <link>https://www.paulmattern.org/authors/katja-fennel/</link>
+      <atom:link href="https://www.paulmattern.org/authors/katja-fennel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katja Fennel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jann Paul Mattern 2019</copyright><lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.paulmattern.org/img/icon-192.png</url>
+      <title>Katja Fennel</title>
+      <link>https://www.paulmattern.org/authors/katja-fennel/</link>
+    </image>
+    
+    <item>
+      <title>Modeling of nitrogen and phosphorus profiles in sediment of Osaka Bay , Japan with parameter optimization using the polynomial chaos expansion</title>
+      <link>https://www.paulmattern.org/publication/ucsc_osaka/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/ucsc_osaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model investigations of the North Atlantic spring bloom initiation</title>
+      <link>https://www.paulmattern.org/publication/dal_springbloom/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_springbloom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Periodic time-dependent parameters improving forecasting abilities of biological ocean models</title>
+      <link>https://www.paulmattern.org/publication/dal_emulator2/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_emulator2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity and uncertainty analysis of model hypoxia estimates for the Texas-Louisiana shelf</title>
+      <link>https://www.paulmattern.org/publication/dal_uncertainty/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating sediment-water exchange of nutrients and oxygen: A comparative assessment of models against mesocosm observations</title>
+      <link>https://www.paulmattern.org/publication/dal_mesocosm/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_mesocosm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle filter-based data assimilation for a three-dimensional biological ocean model and satellite observations</title>
+      <link>https://www.paulmattern.org/publication/dal_pf/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_pf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating time-dependent parameters for a biological ocean model using an emulator approach</title>
+      <link>https://www.paulmattern.org/publication/dal_emulator1/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_emulator1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data assimilation with a local Ensemble Kalman Filter applied to a three-dimensional biological model of the Middle Atlantic Bight</title>
+      <link>https://www.paulmattern.org/publication/dal_enkf/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_enkf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction and Assessment of Measures for Quantitative Model-Data Comparison Using Satellite Images</title>
+      <link>https://www.paulmattern.org/publication/dal_image/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential data assimilation applied to a physical-biological model for the Bermuda Atlantic time series station</title>
+      <link>https://www.paulmattern.org/publication/dal_masters/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/dal_masters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

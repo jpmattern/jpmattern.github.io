@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jerome Fiechter | paulmattern.org</title>
+    <link>https://www.paulmattern.org/authors/jerome-fiechter/</link>
+      <atom:link href="https://www.paulmattern.org/authors/jerome-fiechter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jerome Fiechter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jann Paul Mattern 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.paulmattern.org/img/icon-192.png</url>
+      <title>Jerome Fiechter</title>
+      <link>https://www.paulmattern.org/authors/jerome-fiechter/</link>
+    </image>
+    
+    <item>
+      <title>Data assimilation of physical and chlorophyll a observations in the California Current System using two biogeochemical models</title>
+      <link>https://www.paulmattern.org/publication/ucsc_nemuro4dvar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.paulmattern.org/publication/ucsc_nemuro4dvar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
