@@ -1,24 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | paulmattern.org</title>
+    <title>Categories on Jann Paul Mattern</title>
     <link>https://www.paulmattern.org/categories/</link>
-      <atom:link href="https://www.paulmattern.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jann Paul Mattern 2019</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.paulmattern.org/img/icon-192.png</url>
-      <title>Categories</title>
-      <link>https://www.paulmattern.org/categories/</link>
-    </image>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://www.paulmattern.org/categories/demo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.paulmattern.org/categories/demo/</guid>
-      <description></description>
-    </item>
-    
+    <description>Recent content in Categories on Jann Paul Mattern</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://www.paulmattern.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
